@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(../EducationProject/images/Banner1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Banner1.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -98,20 +98,6 @@ nav{
     background: orangered;
     transition: 1s;
 }
-
-/*
-@media(max-width:700px){
-    .text-box h1{
-        font-size: 20px;
-    }
-    .nav-links ul li {
-        list-style: none;
-        display: inline-block;
-        padding: 8px 12px;
-        position: relative;
-    }
-}
-*/
 
 .Course{
     width: 100%;
@@ -299,7 +285,7 @@ nav{
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(../EducationProject/images/Banner2.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Banner2.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -328,7 +314,7 @@ nav{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(../EducationProject/images/background.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;

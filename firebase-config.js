@@ -2,13 +2,13 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.23.0/firebas
 import { getFirestore } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCNaOQxBHygN4uccaIEF3ubxEQHVtxrjf8",
-  authDomain: "universitywebsite-42e75.firebaseapp.com",
-  projectId: "universitywebsite-42e75",
-  storageBucket: "universitywebsite-42e75.firebasestorage.app",
-  messagingSenderId: "849800760840",
-  appId: "1:849800760840:web:834938c50daaba241f8bbd",
-  measurementId: "G-YCDPQL8EYK"
+  apiKey: "AIzaSyBXNqEMqqAMnc6sLaMH30hMYPHxnYZiDEg",
+  authDomain: "finaluniversitywebsite.firebaseapp.com",
+  projectId: "finaluniversitywebsite",
+  storageBucket: "finaluniversitywebsite.firebasestorage.app",
+  messagingSenderId: "622507692408",
+  appId: "1:622507692408:web:444ea8bba94e880a1af88d",
+  measurementId: "G-JB6LS8Z545"
 };
 
 // Initialize Firebase app
